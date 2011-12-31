@@ -1,0 +1,7 @@
+name: MoreMobs
+main: me.hammale.MoreMobs.MoreMobs
+version: 1.9.1
+commands:
+  mmreload:
+    description:
+    usage: |
