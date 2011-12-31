@@ -1,0 +1,7 @@
+name: MoreMobsLite
+main: me.hammale.MoreMobsLite.MobsLite
+version: 1.0
+commands:
+  mmreload:
+    description:
+    usage: |
